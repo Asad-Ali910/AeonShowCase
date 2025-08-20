@@ -2,14 +2,7 @@
 import { FormEvent, useState } from "react";
 import { sendMail } from "./actions";
 
-export const metadata = {
-	title: "Contact — Aeon Development Center",
-	description:
-		"Aeon Development Center builds high-performance web apps, internal tools, and SaaS with privacy-first engineering and clean delivery.",
-};
-
-
-const Page = () => {
+const ContactPage = () => {
 	const [loading, setLoading] = useState(false);
 	const [message, setMessage] = useState<string | null>(null);
 
@@ -96,4 +89,4 @@ const Page = () => {
 	);
 };
 
-export default Page;
+export default ContactPage;
