@@ -7,6 +7,8 @@ export const metadata = {
 		"Aeon Development Center builds high-performance web apps, internal tools, and SaaS with privacy-first engineering and clean delivery.",
 };
 
+
+
 export default function AboutPage() {
 	return (
 		<main className="bg-background text-foreground">
