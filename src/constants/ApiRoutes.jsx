@@ -1,0 +1,9 @@
+export const HomeRoute = "/";
+export const AboutRoute = "/about";
+export const ServicesRoute = "/services";
+export const BlogRoute = "/blog";
+export const ContactRoute = "/contact";
+export const LoginRoute = "/auth/login";
+export const RegisterRoute = "/auth/register";
+export const ResetPasswordRoute = "/auth/reset-password";
+export const DashboardRoute = "/dashboard";
