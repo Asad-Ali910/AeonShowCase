@@ -111,7 +111,7 @@ export default function Sidebar() {
             );
           })}
         </nav>
-s
+
         {/* Theme toggle at bottom */}
         <div className="p-4 border-t border-border">
           <ThemeSwitcher />
