@@ -1,8 +1,8 @@
 import React from "react";
-import { IoHome, IoSettings } from "react-Icons/io5";
-import { MdWork } from "react-Icons/md";
-import { RiContactsLine, RiPagesFill } from "react-Icons/ri";
-import { IoMdLogIn } from "react-Icons/io";
+import { IoHome, IoSettings } from "react-icons/io5";
+import { MdWork } from "react-icons/md";
+import { RiContactsLine, RiPagesFill } from "react-icons/ri";
+import { IoMdLogIn } from "react-icons/io";
 import {
   AboutRoute,
   BlogRoute,
